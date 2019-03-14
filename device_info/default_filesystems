@@ -1,0 +1,75 @@
+﻿
+abl
+ablbak
+apdp
+bk1
+bk2
+bluetooth
+/dev/block/bootdevice/by-name/bluetooth: SEC_TYPE="msdos" UUID="00BC-614E" TYPE="vfat"
+boot
+cache
+/dev/block/bootdevice/by-name/cache: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+cmnlib
+cmnlib64
+cmnlib64bak
+cmnlibbak
+cust
+/dev/block/bootdevice/by-name/cust: LABEL="cust" UUID="36a5a922-b12b-4e28-9d52-4bd574038cce" TYPE="ext4"
+ddr
+devcfg
+devcfgbak
+devinfo
+dip
+dpo
+dsp
+/dev/block/bootdevice/by-name/dsp: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+frp
+fsc
+fsg
+hyp
+hypbak
+keymaster
+keymasterbak
+keystore
+limits
+logdump
+logfs
+mdtp
+mdtpsecapp
+mdtpsecappbak
+misc
+modem
+/dev/block/bootdevice/by-name/modem: SEC_TYPE="msdos" UUID="00BC-614E" TYPE="vfat"
+modemst1
+modemst2
+msadp
+persist
+/dev/block/bootdevice/by-name/persist: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+persistbak
+/dev/block/bootdevice/by-name/persistbak: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+pmic
+pmicbak
+rawdump
+recovery
+rpm
+rpmbak
+sec
+splash
+ssd
+sti
+storsec
+storsecbak
+switch
+system
+/dev/block/bootdevice/by-name/system: LABEL="system" UUID="923947ee-b546-58fe-a13d-e18f52a320dd" TYPE="ext4"
+toolsfv
+tz
+tzbak
+userdata
+/dev/block/bootdevice/by-name/userdata: UUID="57f8f4bc-abf4-655f-bf67-946fc0f9f25b" TYPE="ext4"
+vbmeta
+vbmetabak
+vendor
+/dev/block/bootdevice/by-name/vendor: LABEL="vendor" UUID="207e70cf-94b1-53b4-a997-beb90e12b8e7" TYPE="ext4"
+xbl
+xblbak
