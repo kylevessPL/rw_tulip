@@ -130,7 +130,7 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_TREE)/recovery/root/etc/recovery.fstab
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.0/lun.%d/file
 
 #Specify device tree author
-TW_DEVICE_VERSION := tulip_geekon
+TW_DEVICE_VERSION := Unofficial-tulip
 
 # Vendor Init
 TARGET_INIT_VENDOR_LIB := libinit_$(TARGET_DEVICE)
